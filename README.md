@@ -5,8 +5,8 @@
 
 ## Team Members:
 
-1. Taral Patel [@taralpatel](https://www.github.com/taralbpatel)
-2. Angel Marsh [@angelmarsh](https://www.github.com/apm83682)
+1. Angel Marsh [@angelmarsh](https://www.github.com/apm83682)
+2. Taral Patel [@taralpatel](https://www.github.com/taralbpatel)
 3. Riley Doggett [@rileydoggett](https://www.github.com/RileyDoggett)
 4. Ripley Kurtz[@ripleykurtz](https://www.github.com/RipleyKurtz)
 5. Sequoyeth Simpson [@sequoyethsimpson](https://www.github.com/quoysimpson)
